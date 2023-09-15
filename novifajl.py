@@ -1,1 +1,1 @@
-print("ovo je novi fajl na masteru")
+print("ovo je nesto nov")
